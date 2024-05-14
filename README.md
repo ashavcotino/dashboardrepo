@@ -1,3 +1,3 @@
 # dashboardrepo
 
-this is the file for the assignment
+This file contains Machine Learning using linear Regression to predict of cloth prices according to their features
